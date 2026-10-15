@@ -63,8 +63,8 @@ Aturan status layanan: `active` ↔ `isolated`, `active`/`isolated` → `termina
 
 ## Cara mengumpulkan
 
-1. Fork atau clone repo ini ke akun GitHub-mu.
-2. Kerjakan di branch `feature/ticketing`. Commit bertahap dengan pesan yang jelas.
+1. Klik **Use this template → Create a new repository**, buat repo **private** di akun GitHub-mu, lalu undang `erwin1412` sebagai collaborator.
+2. Clone repo-mu, lalu kerjakan di branch `feature/ticketing`. Commit bertahap dengan pesan yang jelas.
 3. Buat Pull Request dari `feature/ticketing` ke `main` di repo-mu, lalu kirim link PR-nya.
 4. Deskripsi PR berisi ringkasan perubahan, cara mengetes, dan asumsi yang kamu ambil.
 
